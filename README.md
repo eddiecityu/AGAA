@@ -88,4 +88,10 @@ python test_frcnn.py -p test_images
 
 YOLO- object detected and accuracy achieved
 
-<img src="output-agent/policy-gradient-agent.png" width="70%" align="">
+<img src="https://github.com/eddiecityu/AGAA/blob/main/yolo_img_result1.png" width="70%" align="">
+
+<img src="https://github.com/eddiecityu/AGAA/blob/main/mAP.png" width="70%" align="">
+
+<img src="https://github.com/eddiecityu/AGAA/blob/main/Frcnn_img_results1.png" width="70%" align="">
+
+<img src="https://github.com/eddiecityu/AGAA/blob/main/frcc_mAP.png" width="70%" align="">
