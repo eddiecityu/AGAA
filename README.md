@@ -87,3 +87,5 @@ python test_frcnn.py -p test_images
 4. RESULTS
 
 YOLO- object detected and accuracy achieved
+
+<img src="output-agent/policy-gradient-agent.png" width="70%" align="">
